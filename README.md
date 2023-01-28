@@ -4,7 +4,7 @@
 
 Can find parallel port address with `/dev/parport*`
 
-On this system, this should give you /dev/parport3, in which case in Python, 
+On the linux computer in the eyetracking room, this should give you /dev/parport3 (because the parallel port is installed in the third PCI slot), in which case in Python, 
 
 ```
 from parallel.parallelppdev import Parallel
@@ -36,7 +36,7 @@ then exit python and type
 ```
 sudo modprobe -r lp
 ```
-into terminal
+into terminal. This tells the linux machine to "learn" some type of linux kernel module to interact with the parallel port. Clearly not super clear on what exactly this does but apparently can be run from any working directory.
 
 
 happy triggering!

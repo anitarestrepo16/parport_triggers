@@ -38,5 +38,14 @@ sudo modprobe -r lp
 ```
 into terminal. This tells the linux machine to "learn" some type of linux kernel module to interact with the parallel port. Clearly not super clear on what exactly this does but apparently can be run from any working directory.
 
+If get the error
+```
+[Errno 13] Permission denied
+```
+when trying to set `p = ParallelPort(address)` need to exit iPython and run the following command to give permissions to the port:  
+```
+sudo chmod 777 /dev/parport3
+```
+replacing /dev/parport3 with the relevant port address. 
 
 happy triggering!

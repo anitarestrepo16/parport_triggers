@@ -1,4 +1,5 @@
 from psychopy.parallel import ParallelPort
+import time
 
 class Triggerer():
     '''

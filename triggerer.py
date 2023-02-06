@@ -9,15 +9,13 @@ class Triggerer():
     '''
 
     def __init__(self, address, trigger_types):
-        '''
-        trigger_types: list of strings indicating the flag labels desired
-        '''
         self.p = ParallelPort(address)
-        self.trigger_labels = 
+        self.trigger_labels = {}
     
     def set_trigger_labels(self, trigger_types):
         '''
-        Map the trigger_types (list of strings with the labels for the flags) onto pin settings.
+        Map the trigger_types (list of strings with the labels for the flags)
+        onto pin settings.
         
         '''
         self.trigger_labels = {}

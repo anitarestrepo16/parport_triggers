@@ -1,4 +1,4 @@
-
+from psychopy.parallel import ParallelPort
 
 class Triggerer():
     '''
@@ -20,13 +20,14 @@ class Triggerer():
         Map the trigger_types (list of strings with the labels for the flags) onto pin settings.
         
         '''
-        trigger_labels = {}
+        self.trigger_labels = {}
         for trigger, index in enumerate(trigger_types):
-            trigger_labels[trigger] = index + 1
-        return trigger_labels
+            self.trigger_labels[trigger] = index + 1
+        return self.trigger_labels
             
 
-    def send_trigger(self, value, duration = .002):
+    def send_trigger(self, trigger_type, duration = .002):
+        value = self.trigger_labels[trigger_type]
         self.p.setData(value)
         time.sleep(duration)
         self.p.setData(0)

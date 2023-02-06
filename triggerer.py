@@ -3,12 +3,14 @@ from psychopy.parallel import ParallelPort
 class Triggerer():
     '''
     Attributes:
-    - trigger_labels: 
+    - trigger_labels: dictionary of trigger types paired with the pin number (1-255)
     Methods:
-    - 
+    - set_trigger_labels: takes a list of strings and pairs them with unique pin numbers
+    - send_trigger: takes a trigger type and optional duration parameter and sends a trigger
+    (move pin to adequate number and brings it back down after a certain duration (default = .002))
     '''
 
-    def __init__(self, address, trigger_types):
+    def __init__(self, address):
         self.p = ParallelPort(address)
         self.trigger_labels = {}
     
@@ -18,8 +20,7 @@ class Triggerer():
         onto pin settings.
         
         '''
-        self.trigger_labels = {}
-        for trigger, index in enumerate(trigger_types):
+        for index, trigger in enumerate(trigger_types):
             self.trigger_labels[trigger] = index + 1
         return self.trigger_labels
             

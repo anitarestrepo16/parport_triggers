@@ -2,6 +2,8 @@
 
 ## Instructions for use
 
+Note: The parallel port cable should be attached to the first ("Digital I/O 1") slot in the back of the 8-slot Bionex and the trigger cable ("TRIGGER INPUT") should not be plugged in. The Biolab setting for Trigger Modes should be set to "OFF".
+
 Can find parallel port address with `/dev/parport*`
 
 On the linux computer in the eyetracking room, this should give you /dev/parport3 (because the parallel port is installed in the third PCI slot), in which case in Python, 

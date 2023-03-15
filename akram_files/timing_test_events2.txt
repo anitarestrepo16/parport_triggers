@@ -1,0 +1,415 @@
+BioLab	Acquisition Started	03/06/2023	03:51:57.156 PM
+sync summary event # 13	start_experiment	03/06/2023	03:52:02.030 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:52:02.058 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:52:04.276 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:52:04.324 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:52:14.294 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:52:14.324 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:52:15.935 PM
+sync summary event # 14	fixation	03/06/2023	03:52:16.961 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:52:18.000 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:52:18.057 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:52:28.033 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:52:28.073 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:52:29.700 PM
+sync summary event # 14	fixation	03/06/2023	03:52:30.726 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:52:31.760 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:52:31.807 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:52:41.779 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:52:41.823 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:52:43.067 PM
+sync summary event # 14	fixation	03/06/2023	03:52:44.094 PM
+sync summary event # 4	describe_writeout_start	03/06/2023	03:52:45.137 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:52:45.189 PM
+sync summary event # 8	describe_writeout_choice_start	03/06/2023	03:52:47.307 PM
+sync summary event # 12	describe_writeout_choice_end	03/06/2023	03:52:48.422 PM
+sync summary event # 14	fixation	03/06/2023	03:52:49.447 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:52:50.479 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:52:50.539 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:53:00.497 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:53:00.522 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:53:02.398 PM
+sync summary event # 14	fixation	03/06/2023	03:53:03.425 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:53:04.456 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:53:04.505 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:53:14.474 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:53:14.521 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:53:16.536 PM
+sync summary event # 14	fixation	03/06/2023	03:53:17.562 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:53:18.594 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:53:18.704 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:53:28.677 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:53:28.704 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:53:33.121 PM
+sync summary event # 14	fixation	03/06/2023	03:53:34.148 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:53:35.180 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:53:35.220 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:53:45.200 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:53:45.220 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:53:47.152 PM
+sync summary event # 14	fixation	03/06/2023	03:53:48.179 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:53:49.211 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:53:49.253 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:53:59.239 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:53:59.286 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:54:02.625 PM
+sync summary event # 14	fixation	03/06/2023	03:54:03.650 PM
+sync summary event # 3	imagine_writeout_start	03/06/2023	03:54:04.684 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:54:04.736 PM
+sync summary event # 7	imagine_writeout_choice_start	03/06/2023	03:54:13.022 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:54:13.052 PM
+sync summary event # 11	imagine_writeout_choice_end	03/06/2023	03:54:14.901 PM
+sync summary event # 14	fixation	03/06/2023	03:54:15.930 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:54:16.963 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:54:17.002 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:54:26.981 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:54:27.018 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:54:28.080 PM
+sync summary event # 14	fixation	03/06/2023	03:54:29.107 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:54:30.139 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:54:30.168 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:54:40.159 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:54:40.201 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:54:42.322 PM
+sync summary event # 14	fixation	03/06/2023	03:54:43.348 PM
+sync summary event # 4	describe_writeout_start	03/06/2023	03:54:44.381 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:54:44.467 PM
+sync summary event # 8	describe_writeout_choice_start	03/06/2023	03:54:47.991 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:54:48.051 PM
+sync summary event # 12	describe_writeout_choice_end	03/06/2023	03:54:50.626 PM
+sync summary event # 14	fixation	03/06/2023	03:54:51.653 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:54:52.684 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:54:52.784 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:55:02.753 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:55:02.783 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:55:04.335 PM
+sync summary event # 14	fixation	03/06/2023	03:55:05.361 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:55:06.392 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:55:06.433 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:55:16.410 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:55:16.433 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:55:21.412 PM
+sync summary event # 14	fixation	03/06/2023	03:55:27.447 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:55:28.478 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:55:28.565 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:55:38.530 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:55:38.565 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:55:40.489 PM
+sync summary event # 14	fixation	03/06/2023	03:55:41.517 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:55:42.551 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:55:42.615 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:55:52.599 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:55:52.648 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:55:56.974 PM
+sync summary event # 14	fixation	03/06/2023	03:55:58.001 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:55:59.035 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:55:59.114 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:56:09.079 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:56:09.114 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:56:10.230 PM
+sync summary event # 14	fixation	03/06/2023	03:56:11.258 PM
+sync summary event # 3	imagine_writeout_start	03/06/2023	03:56:12.300 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:56:12.330 PM
+sync summary event # 7	imagine_writeout_choice_start	03/06/2023	03:56:15.186 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:56:15.213 PM
+sync summary event # 11	imagine_writeout_choice_end	03/06/2023	03:56:17.185 PM
+sync summary event # 14	fixation	03/06/2023	03:56:18.217 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:56:19.250 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:56:19.347 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:56:29.312 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:56:29.346 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:56:31.472 PM
+sync summary event # 14	fixation	03/06/2023	03:56:32.498 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:56:33.530 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:56:33.596 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:56:43.564 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:56:43.596 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:56:45.719 PM
+sync summary event # 14	fixation	03/06/2023	03:56:46.747 PM
+sync summary event # 15	start_block	03/06/2023	03:56:47.787 PM
+sync summary event # 16	end_block	03/06/2023	03:56:51.142 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:56:51.152 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:56:51.195 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:57:01.171 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:57:01.211 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:57:02.931 PM
+sync summary event # 14	fixation	03/06/2023	03:57:03.957 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:57:04.989 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:57:05.028 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:57:15.008 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:57:15.061 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:57:16.740 PM
+sync summary event # 14	fixation	03/06/2023	03:57:17.769 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:57:18.802 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:57:18.861 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:57:28.829 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:57:28.860 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:57:30.794 PM
+sync summary event # 14	fixation	03/06/2023	03:57:31.822 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:57:32.861 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:57:32.910 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:57:42.881 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:57:42.926 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:57:46.085 PM
+sync summary event # 14	fixation	03/06/2023	03:57:47.114 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:57:48.146 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:57:48.243 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:57:58.218 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:57:58.259 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:57:59.254 PM
+sync summary event # 14	fixation	03/06/2023	03:58:00.283 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:58:01.314 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:58:01.375 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:58:11.333 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:58:11.375 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:58:13.172 PM
+sync summary event # 14	fixation	03/06/2023	03:58:14.204 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:58:15.237 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:58:15.308 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:58:25.280 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:58:25.324 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:58:26.805 PM
+sync summary event # 14	fixation	03/06/2023	03:58:27.832 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:58:28.865 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:58:28.941 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:58:38.911 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:58:38.957 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:58:39.860 PM
+sync summary event # 14	fixation	03/06/2023	03:58:40.887 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:58:41.919 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:58:41.974 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:58:51.937 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:58:51.973 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:58:53.099 PM
+sync summary event # 14	fixation	03/06/2023	03:58:54.128 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:58:55.163 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:58:55.206 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:59:05.181 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:59:05.223 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:59:05.940 PM
+sync summary event # 14	fixation	03/06/2023	03:59:06.966 PM
+sync summary event # 2	describe_trial_start	03/06/2023	03:59:07.998 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:59:08.073 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	03:59:18.031 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:59:18.072 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	03:59:19.649 PM
+sync summary event # 14	fixation	03/06/2023	03:59:20.678 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:59:21.710 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:59:21.755 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:59:31.729 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:59:31.755 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:59:35.144 PM
+sync summary event # 14	fixation	03/06/2023	03:59:36.172 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:59:37.204 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:59:37.238 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	03:59:47.224 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:59:47.254 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	03:59:48.262 PM
+sync summary event # 14	fixation	03/06/2023	03:59:49.288 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	03:59:50.331 PM
+sync summary event # 128	async summary event 128	03/06/2023	03:59:50.371 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	04:00:00.350 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:00:00.404 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	04:00:01.745 PM
+sync summary event # 14	fixation	03/06/2023	04:00:02.773 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	04:00:03.804 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:00:03.837 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	04:00:13.824 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:00:13.853 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	04:00:16.000 PM
+sync summary event # 14	fixation	03/06/2023	04:00:17.027 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	04:00:18.067 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:00:18.103 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	04:00:28.087 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:00:28.119 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	04:00:29.140 PM
+sync summary event # 14	fixation	03/06/2023	04:00:30.167 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:00:31.212 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:00:31.286 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:00:41.250 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:00:41.285 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:00:42.336 PM
+sync summary event # 14	fixation	03/06/2023	04:00:43.364 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:00:44.406 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:00:44.518 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:00:54.486 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:00:54.535 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:00:57.150 PM
+sync summary event # 14	fixation	03/06/2023	04:00:58.177 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:00:59.211 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:00:59.334 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:01:09.311 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:01:09.351 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:01:12.204 PM
+sync summary event # 14	fixation	03/06/2023	04:01:13.232 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:01:14.264 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:01:14.367 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:01:24.333 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:01:24.367 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:01:26.774 PM
+sync summary event # 14	fixation	03/06/2023	04:01:27.803 PM
+sync summary event # 15	start_block	03/06/2023	04:01:28.842 PM
+sync summary event # 16	end_block	03/06/2023	04:01:29.844 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	04:01:29.853 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:01:29.900 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	04:01:39.870 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:01:39.916 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	04:01:43.182 PM
+sync summary event # 14	fixation	03/06/2023	04:01:44.209 PM
+sync summary event # 4	describe_writeout_start	03/06/2023	04:01:45.241 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:01:45.266 PM
+sync summary event # 8	describe_writeout_choice_start	03/06/2023	04:01:46.608 PM
+sync summary event # 12	describe_writeout_choice_end	03/06/2023	04:01:47.994 PM
+sync summary event # 14	fixation	03/06/2023	04:01:49.025 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	04:01:50.058 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:01:50.099 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	04:02:00.077 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:00.116 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	04:02:01.750 PM
+sync summary event # 14	fixation	03/06/2023	04:02:02.778 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:02:03.810 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:03.882 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:02:13.858 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:13.898 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:02:15.189 PM
+sync summary event # 14	fixation	03/06/2023	04:02:16.216 PM
+sync summary event # 3	imagine_writeout_start	03/06/2023	04:02:17.247 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:17.281 PM
+sync summary event # 7	imagine_writeout_choice_start	03/06/2023	04:02:20.839 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:20.881 PM
+sync summary event # 11	imagine_writeout_choice_end	03/06/2023	04:02:21.811 PM
+sync summary event # 14	fixation	03/06/2023	04:02:22.838 PM
+sync summary event # 3	imagine_writeout_start	03/06/2023	04:02:23.871 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:23.897 PM
+sync summary event # 7	imagine_writeout_choice_start	03/06/2023	04:02:27.243 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:27.264 PM
+sync summary event # 11	imagine_writeout_choice_end	03/06/2023	04:02:28.828 PM
+sync summary event # 14	fixation	03/06/2023	04:02:29.858 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:02:30.893 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:30.964 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:02:40.933 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:40.963 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:02:42.672 PM
+sync summary event # 14	fixation	03/06/2023	04:02:43.700 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:02:44.734 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:44.796 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:02:54.782 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:54.813 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:02:56.343 PM
+sync summary event # 14	fixation	03/06/2023	04:02:57.369 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:02:58.401 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:02:58.513 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:03:08.473 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:03:08.529 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:03:09.562 PM
+sync summary event # 14	fixation	03/06/2023	04:03:10.590 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:03:11.624 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:03:11.712 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:03:21.690 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:03:21.729 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:03:23.419 PM
+sync summary event # 14	fixation	03/06/2023	04:03:24.448 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:03:25.481 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:03:25.561 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:03:35.532 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:03:35.578 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:03:36.767 PM
+sync summary event # 14	fixation	03/06/2023	04:03:37.794 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	04:03:38.826 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:03:38.861 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	04:03:48.845 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:03:48.877 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	04:03:50.867 PM
+sync summary event # 14	fixation	03/06/2023	04:03:51.894 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:03:52.927 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:03:53.010 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:04:02.979 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:03.026 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:04:04.717 PM
+sync summary event # 14	fixation	03/06/2023	04:04:05.744 PM
+sync summary event # 4	describe_writeout_start	03/06/2023	04:04:06.777 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:06.826 PM
+sync summary event # 8	describe_writeout_choice_start	03/06/2023	04:04:10.635 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:10.676 PM
+sync summary event # 12	describe_writeout_choice_end	03/06/2023	04:04:12.274 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:12.827 PM
+sync summary event # 14	fixation	03/06/2023	04:04:13.301 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	04:04:14.340 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:14.376 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	04:04:24.360 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:24.392 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	04:04:25.585 PM
+sync summary event # 14	fixation	03/06/2023	04:04:26.615 PM
+sync summary event # 4	describe_writeout_start	03/06/2023	04:04:27.649 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:27.709 PM
+sync summary event # 8	describe_writeout_choice_start	03/06/2023	04:04:32.125 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:32.158 PM
+sync summary event # 12	describe_writeout_choice_end	03/06/2023	04:04:34.952 PM
+sync summary event # 14	fixation	03/06/2023	04:04:35.979 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:04:37.013 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:37.075 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:04:47.041 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:47.074 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:04:47.976 PM
+sync summary event # 14	fixation	03/06/2023	04:04:49.003 PM
+sync summary event # 3	imagine_writeout_start	03/06/2023	04:04:50.037 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:50.058 PM
+sync summary event # 7	imagine_writeout_choice_start	03/06/2023	04:04:55.774 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:55.824 PM
+sync summary event # 11	imagine_writeout_choice_end	03/06/2023	04:04:57.191 PM
+sync summary event # 14	fixation	03/06/2023	04:04:58.218 PM
+sync summary event # 4	describe_writeout_start	03/06/2023	04:04:59.252 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:04:59.324 PM
+sync summary event # 8	describe_writeout_choice_start	03/06/2023	04:05:02.794 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:05:02.824 PM
+sync summary event # 12	describe_writeout_choice_end	03/06/2023	04:05:04.267 PM
+sync summary event # 14	fixation	03/06/2023	04:05:05.296 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	04:05:06.330 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:05:06.374 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	04:05:16.349 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:05:16.390 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	04:05:18.311 PM
+sync summary event # 14	fixation	03/06/2023	04:05:19.339 PM
+sync summary event # 3	imagine_writeout_start	03/06/2023	04:05:20.370 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:05:20.406 PM
+sync summary event # 7	imagine_writeout_choice_start	03/06/2023	04:05:25.607 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:05:25.656 PM
+sync summary event # 11	imagine_writeout_choice_end	03/06/2023	04:05:26.807 PM
+sync summary event # 14	fixation	03/06/2023	04:05:27.833 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	04:05:28.867 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:05:28.906 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	04:05:38.885 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:05:38.922 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	04:05:40.427 PM
+sync summary event # 14	fixation	03/06/2023	04:05:41.455 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:05:42.488 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:05:42.589 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:05:52.560 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:05:52.605 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:05:53.648 PM
+sync summary event # 14	fixation	03/06/2023	04:05:54.676 PM
+sync summary event # 1	imagine_trial_start	03/06/2023	04:05:55.709 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:05:55.755 PM
+sync summary event # 5	imagine_trial_choice_start	03/06/2023	04:06:05.728 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:06:05.754 PM
+sync summary event # 9	imagine_trial_choice_end	03/06/2023	04:06:07.504 PM
+sync summary event # 14	fixation	03/06/2023	04:06:08.533 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:06:09.567 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:06:09.671 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:06:19.630 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:06:19.670 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:06:21.298 PM
+sync summary event # 14	fixation	03/06/2023	04:06:22.326 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:06:23.358 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:06:23.420 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:06:33.391 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:06:33.437 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:06:34.456 PM
+sync summary event # 14	fixation	03/06/2023	04:06:35.485 PM
+sync summary event # 2	describe_trial_start	03/06/2023	04:06:36.517 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:06:36.586 PM
+sync summary event # 6	describe_trial_choice_start	03/06/2023	04:06:46.555 PM
+sync summary event # 128	async summary event 128	03/06/2023	04:06:46.586 PM
+sync summary event # 10	describe_trial_choice_end	03/06/2023	04:06:47.732 PM
+sync summary event # 14	fixation	03/06/2023	04:06:48.767 PM
+sync summary event # 17	end_experiment	03/06/2023	04:06:49.810 PM

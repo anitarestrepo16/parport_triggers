@@ -1,53 +1,71 @@
 # parport_triggers
 
-## Instructions for use
+## Setting Up
 
-Note: The parallel port cable should be attached to the first ("Digital I/O 1") slot in the back of the 8-slot Bionex and the trigger cable ("TRIGGER INPUT") should not be plugged in. The Biolab setting for Trigger Modes should be set to "OFF".
+**Bionex:**
+The parallel port cable should be attached to the first ("Digital I/O 1") slot in the back of the 8-slot Bionex and the trigger cable ("TRIGGER INPUT") should not be plugged in. 
 
-Can find parallel port address with `/dev/parport*`
+**Biolab:**
+The Biolab setting for Trigger Modes should be set to "OFF".
 
-On the linux computer in the eyetracking room, this should give you /dev/parport3 (because the parallel port is installed in the third PCI slot), in which case in Python, 
+**Stimulus computer (linux machine):**
+Make sure there's an actual parallel port card installed in the back of the computer tower.
 
-```
-from parallel.parallelppdev import Parallel
-p = Parallel(3)
-```
-or 
-```
-from psychopy.parallel import ParallelPort
-p = ParallelPort(3)
-```
+Find the parallel port addess by typing `/dev/parport*` into the terminal (it should be something like /dev/parport0) and note this down.
 
-Then you can set the pins as in the pyparallel documentation.
+Two commands need to be run on the terminal to allow communication with the parallel port:
 
-For instance
-```
-p.setData(255)
-```
-will set all the pins to high and 
-```
-p.setData(0)
-```
-will set them to low.
-
-If you get this error
-```
-OSError: [Errno 6] No such device or address
-```
-then exit python and type
+The first command is:
 ```
 sudo modprobe -r lp
 ```
-into terminal. This tells the linux machine to "learn" some type of linux kernel module to interact with the parallel port. Clearly not super clear on what exactly this does but apparently can be run from any working directory.
+This tells the linux machine to "learn" some type of linux kernel module to interact with the parallel port. Clearly not super clear on what exactly this does but apparently can be run from any working directory. The terminal will ask for the account password to make changes.
 
-If get the error
+If you don't run this, you might get the following error:
+```
+OSError: [Errno 6] No such device or address
+```
+
+The second command is:
+```
+sudo chmod 777 /dev/parport0
+```
+replacing /dev/parport0 with the relevant port address to give the computer permission to access the port.
+
+Otherwise you might run into this error:
 ```
 [Errno 13] Permission denied
 ```
-when trying to set `p = ParallelPort(address)` need to exit iPython and run the following command to give permissions to the port:  
-```
-sudo chmod 777 /dev/parport3
-```
-replacing /dev/parport3 with the relevant port address. 
 
-happy triggering!
+## Instructions for use of the Triggerer Class
+Note: see the docstrings in the script for more detailed information.
+
+First initialize an instance of the Triggerer class:
+```
+my_triggerer = Triggerer(0)
+```
+Replacing the 0 with the actual parallel port address number.
+
+Then you need to set the trigger labels with whatever you want your flags to be:
+```
+my_triggerer.set_trigger_labels(['flag1', 'flag2, 'flag3'])
+```
+Note that you can have up to 127 different flag labels (but no more). 
+
+Then you need to create the .txt file that has to be uploaded into the Biolab "Synchronous Events (Digital I/O 1)" tab. Event Mode should be set to Summary. You can generate the .txt file with:
+```
+my_triggerer.create_txt_file('my_filename')
+```
+This will save the txt file into your current working directory.
+
+Once you've done this and uploaded the txt file to Biolab, you should be ready to send triggers and receive them in the Biolab acquisition window. Any time in the script that you want to send a trigger use:
+```
+my_triggerer.send_trigger('flag1')
+```
+inputting the appropriate flag name.
+
+Importantly, you have to remember to manually start the physio data acquisition by clicking on the "Start" button in the top left corner of the Biolab window as **the acquisition will not be triggered to start automatically**!
+
+Any questions or problems contact Anita Restrepo (ar277@uchicago.edu). 
+
+Happy Triggering!

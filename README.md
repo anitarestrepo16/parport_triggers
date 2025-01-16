@@ -40,7 +40,7 @@ Otherwise you might run into this error:
 ## Instructions for use of the Triggerer Class
 Note: see the docstrings in the script for more detailed information.
 
-First initialize an instance of the Triggerer class:
+First initialize an instance of the Triggerer class in the script you will be running your experiment on:
 ```
 my_triggerer = Triggerer(0)
 ```
@@ -52,11 +52,18 @@ my_triggerer.set_trigger_labels(['flag1', 'flag2, 'flag3'])
 ```
 Note that you can have up to 127 different flag labels (but no more). 
 
-Then you need to create the .txt file that has to be uploaded into the Biolab "Synchronous Events (Digital I/O 1)" tab. Event Mode should be set to Summary. You can generate the .txt file with:
+In order for the triggers to be reported by Mindware with the names you want ('flag1', 'flag2') instead of random numbers, you need to upload a .txt file into the Biolab "Synchronous Events (Digital I/O 1)" tab. Event Mode should be set to Summary. 
+
+To autogenerate the .txt file that you need to upload to BioLab, you can open an instance of ipython in a terminal window (make sure you're CD'ed into the directory with the triggerer.py script) and use the following commands:
 ```
+# repeat the creation of the class instance and setting of labels just as you do in your experiment script above
+my_triggerer = Triggerer(0)
+my_triggerer.set_trigger_labels(['flag1', 'flag2'])
+
+# generate the txt file
 my_triggerer.create_txt_file('my_filename')
 ```
-This will save the txt file into your current working directory.
+This will save the txt file into your current working directory. You can then take this file and upload it to BioLab on the computer you will be using for physio data acquisition.
 
 Once you've done this and uploaded the txt file to Biolab, you should be ready to send triggers and receive them in the Biolab acquisition window. Any time in the script that you want to send a trigger use:
 ```
